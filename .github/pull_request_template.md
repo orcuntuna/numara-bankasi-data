@@ -1,0 +1,20 @@
+<!--
+
+Nelere dikkat etmelisiniz?
+
+- Pull request göndermeden aşağıdaki alanları doldurun.
+- Ekleyeceğiniz numaranın daha önce eklenmediğinden emin olun.
+- Numaraları doğru kategoriye eklemeye özen gösterin.
+- Türkiye üzerinden erişimi ekstra ücretli numaralar eklemeyin.
+- Numara için görsel veya sayı (belediye numaralarında örnek kullanım mevcuttur) ekleyebilirsiniz.
+- Numara veya kategori görseli için images dizinini içerisnde 64x64 boyutunda png veya jpg/jpeg uzantılı görsel oluşturun.
+- Eğer sadece bir numarayı güncellediyseniz aşağıdaki alana verinin kaynağını yazın.
+
+-->
+
+**Eklediğiniz numara:** 
+**Eklediğiniz numara kime ait:** 
+**Eklediğiniz numara kategorisi:** 
+**Eklediğiniz verinin kaynağı (URL):** 
+
+<!-- Yorum satırlarını silmenize gerek yoktur, isterseniz silebilirsiniz -->
