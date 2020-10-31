@@ -8,6 +8,7 @@ Nelere dikkat etmelisiniz?
 - Türkiye üzerinden erişimi ekstra ücretli numaralar eklemeyin.
 - Numara için görsel veya sayı (belediye numaralarında örnek kullanım mevcuttur) ekleyebilirsiniz.
 - Numara veya kategori görseli için images dizinini içerisnde 64x64 boyutunda png veya jpg/jpeg uzantılı görsel oluşturun.
+- Eklediğiniz görselin numara ismiyle uyumlu olmasına dikkat edin. (örneğin: mehmetcik_vakfi.png)
 - Eğer sadece bir numarayı güncellediyseniz aşağıdaki alana verinin kaynağını yazın.
 
 -->
