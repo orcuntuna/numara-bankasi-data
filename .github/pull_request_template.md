@@ -12,9 +12,9 @@ Nelere dikkat etmelisiniz?
 
 -->
 
-**Eklediğiniz numara:** 
-**Eklediğiniz numara kime ait:** 
-**Eklediğiniz numara kategorisi:** 
-**Eklediğiniz verinin kaynağı (URL):** 
+**Eklediğiniz numara:** -
+**Eklediğiniz numara kime ait:** -
+**Eklediğiniz numara kategorisi:** -
+**Eklediğiniz verinin kaynağı (URL):** -
 
 <!-- Yorum satırlarını silmenize gerek yoktur, isterseniz silebilirsiniz -->
