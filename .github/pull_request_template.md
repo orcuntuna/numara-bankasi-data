@@ -12,12 +12,12 @@ Nelere dikkat etmelisiniz?
 
 -->
 
-**Eklediğiniz numara:** 
+**Eklediğiniz/güncellediğiniz numara:** 
 
-**Eklediğiniz numara kime ait:** 
+**Eklediğiniz/güncellediğiniz numara kime ait:** 
 
-**Eklediğiniz numara kategorisi:** 
+**Eklediğiniz/güncellediğiniz numara kategorisi:** 
 
-**Eklediğiniz verinin kaynağı (URL):** 
+**Eklediğiniz/güncellediğiniz verinin kaynağı (URL):** 
 
 <!-- Yorum satırlarını silmenize gerek yoktur, isterseniz silebilirsiniz -->
