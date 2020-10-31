@@ -939,7 +939,7 @@ const numbers = [
     },
     {
         category_id: 9,
-        name: "BİMER",
+        name: "CİMER",
         number: "150",
         image: require("../images/numbers/bimer.png")
     },
