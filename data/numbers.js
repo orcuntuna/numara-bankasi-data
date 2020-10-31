@@ -941,7 +941,7 @@ const numbers = [
         category_id: 9,
         name: "CİMER",
         number: "150",
-        image: require("../images/numbers/bimer.png")
+        image: require("../images/numbers/cimer.png")
     },
     {
         category_id: 9,
