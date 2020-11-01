@@ -5,3 +5,14 @@ Numara Bankası mobil uygulaması içerisinde bulunan verilerin bulunduğu depo.
 Numara Bankası; acil yardım servislerinin, kurumların, derneklerin ve ihtiyaç duyulabilecek diğer yerlerin telefon numaralarını kategorilendirilmiş bir şekilde listelemenize, numaralar arasında arama yapmanıza ve kolay bir şekilde bu telefon numaralarına arama yapmanızı sağlar. Numara Bankası, telefon numaralarını listelemek veya aramak için internet bağlantısı gerektirmez. Bu sayede acil durum numaralarına çok hızlı bir şekilde ulaşabilirsiniz.
 
 <a href="https://play.google.com/store/apps/details?id=com.numarabankasi"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/tr_badge_web_generic.png" alt="drawing" width="200"/></a>
+
+## 👩‍💻 Numara Önizleme
+
+```
+git clone git@github.com:orcuntuna/numara-bankasi-data.git
+cd numara-bankasi-data/preview
+yarn
+yarn start
+```
+
+Tarayıcınızdan http://localhost:1234 adresine giderek numaraları listeleyebilirsiniz.
